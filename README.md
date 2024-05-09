@@ -1,20 +1,10 @@
-## Getting Started
+# Battleship Client
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to Battleship Client! This Java-based application allows users to enjoy the classic game of Battleship in a simple and intuitive interface. With the added functionality of connecting to a server, you can even challenge your friends to multiplayer battles!
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# Battleship-Client
-# Battleship-Client
+- **Single Player Mode**: Play against the computer and test your strategic skills.
+- **Multiplayer Mode**: Connect to a server and challenge your friends in real-time battles.
+- **User-friendly Interface**: Enjoy a sleek and intuitive interface designed for an enjoyable gaming experience.
+- **Basic Game Mechanics**: Experience the classic gameplay of Battleship with all its core mechanics intact.
